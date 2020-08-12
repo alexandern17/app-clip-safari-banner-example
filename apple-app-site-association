@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "VG7VUTUR9U.com.thunderhead.testapp.App-Clip-Test",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
